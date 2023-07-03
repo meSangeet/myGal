@@ -1,2 +1,3 @@
 # myGal
-myGal is my online gallery made using css grid.
+As I literally click pictures of everything everytime. I thought of using my tech skills to create a photo album
+where I keep the most photo collection.
